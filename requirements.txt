@@ -1,0 +1,10 @@
+flask
+flask_restful
+sqlalchemy
+flask_sqlalchemy
+flask_migrate
+gunicorn
+psycopg2
+flask_bcrypt
+flask_cors
+sqlalchemy_utils
